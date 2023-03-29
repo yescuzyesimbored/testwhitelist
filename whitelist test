@@ -1,0 +1,5 @@
+userids = {
+[826506326] = true -- ur cazed id if u wanna try it out ima still learning xd
+[1177793870] -- my id
+}
+return userids
